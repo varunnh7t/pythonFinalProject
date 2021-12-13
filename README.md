@@ -1,6 +1,7 @@
 # pythonFinalProject
 facemaskDetection
-
+Since model size is too large to upload to git we are giving the model link
+model link: https://drive.google.com/file/d/16GanEBrOShwmnjhNRQ-ZyN4F8p7sMggD/view
 Execution video link: https://youtu.be/_qvMkaqjs4I
 
 Prerequsite Softwares : Python3, TensorFlow, OpenCv, Keras
